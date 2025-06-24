@@ -1,7 +1,7 @@
  👋 Hi, I'm Resa Roy
 
 🎓 I'm a Computer Science undergrad at NIT Silchar (Batch of 2027)  
-💻 Passionate about Web Development, Problem Solving, and Tech Innovations
+💻 Passionate about Web Development, Problem Solving, Tech Innovations and an AIML enthusiast.
 
  🚀 What I’m currently working on
 - Exploring the MERN Stack (MongoDB, Express.js, React.js, Node.js)
