@@ -5,7 +5,7 @@
 
  🚀 What I’m currently working on
 - Exploring the MERN Stack (MongoDB, Express.js, React.js, Node.js)
-- Solving Data Structures & Algorithms problems (200+ on LeetCode!)
+- Solved Data Structures & Algorithms problems (250+ on LeetCode!)
 - Building personal projects to strengthen real-world skills
 
  🔧 Tech Stack
